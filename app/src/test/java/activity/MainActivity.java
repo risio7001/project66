@@ -1,11 +1,13 @@
-package com.example.project66;
-
-import androidx.appcompat.app.AppCompatActivity;
+package activity;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.project66.R;
 
 public class MainActivity extends AppCompatActivity {
 
